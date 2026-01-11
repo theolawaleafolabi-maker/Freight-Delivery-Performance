@@ -10,7 +10,7 @@ Here's what the data revealed:
 
 UPS is bleeding red at €19M—our most expensive carrier. Meanwhile, GIG Logistics is running lean at €17M for similar volumes. That's a €2M opportunity right there.
 
-The route analysis? Even more telling. Some destinations are running 20-30% over budget (those pink bars towering over blue). Abuja and Mombasa are our cost hotspots, while Kumasi is surprisingly efficient.
+The route analysis? Even more telling. Some destinations are running 20-30% over budget (those pink bars towering over blue). Frankfurth and Hannover are our cost hotspots, while Munich is surprisingly efficient.
 
 And that 40% on-time delivery rate? That's not just a number—it's delayed customer satisfaction, rushed emergency shipments, and premium freight charges we shouldn't be paying.
 
